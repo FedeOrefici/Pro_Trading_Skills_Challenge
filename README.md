@@ -1,7 +1,7 @@
 ﻿🟡 # pro_trading_skills_challenge
 ______________________________________________________________________________________________________________
 Pasos para correr el app: <br />
-1- npm install para instalar la version de sass
+1- npm install para instalar la version de sass <br />
 2- Abrir la aplicacioón en el navegador# Pro_Trading_Skills_Challenge
 _____________________________________________________________________________________________________________
 
