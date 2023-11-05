@@ -1,0 +1,16 @@
+{
+  "name": "federicoorefici_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loadButtonAndCallApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "sass styles.sass styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
